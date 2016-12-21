@@ -1,12 +1,12 @@
-﻿using Android.App;
+﻿using System;
+using Android.App;
+using Android.Content;
+using Android.Runtime;
+using Android.Views;
 using Android.Widget;
 using Android.OS;
-using Android.Views;
 using System.Collections.Generic;
-using Android;
-using System;
-using Android.Runtime;
-
+using AndroidGridView;
 
 namespace AndroidGridView
 {
